@@ -10,3 +10,7 @@ And all I found, were ideas for projects made with GUI , so I decide to make thi
 ### App No. One
 
 [Number Gueeser](https://github.com/mohammedyouness/A-list-of-console-apps/tree/master/Number%20Guesser/src)
+
+### App No. Two
+
+[Email Application](https://github.com/mohammedyouness/A-list-of-console-apps/tree/master/Email%20App/src)
