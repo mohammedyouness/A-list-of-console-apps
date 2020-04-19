@@ -14,3 +14,7 @@ And all I found, were ideas for projects made with GUI , so I decide to make thi
 ### App No. Two
 
 [Email Application](https://github.com/mohammedyouness/A-list-of-console-apps/tree/master/Email%20App/src)
+
+### App No. Three
+
+[Student Database Application](https://github.com/mohammedyouness/A-list-of-console-apps/tree/master/Student%20Database%20Application/src)
